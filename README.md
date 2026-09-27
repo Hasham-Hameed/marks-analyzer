@@ -40,3 +40,4 @@ This is a small learning project. Planned improvements:
 ## Author
 
 Built while learning Python fundamentals — functions, loops, and lists.
+Regards: Hasham Hameed
